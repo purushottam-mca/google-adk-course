@@ -1,0 +1,1 @@
+## use tavily_search instead of googel search to avoid gemini models
